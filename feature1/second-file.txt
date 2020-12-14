@@ -1,0 +1,3 @@
+First line in the second-file.txt file in feature1 branch.
+
+another line in feature1 branch.
